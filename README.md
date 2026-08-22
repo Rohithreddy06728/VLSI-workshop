@@ -5,3 +5,5 @@
 
 # Week -2 
 # Module -3 : Combinational and Sequential Optimizations
+# Module -4 : GLS, Blocking vs Non-Blocking and Synthesis-Simulation Mismatch
+# Module -5 : Optimization in Synthesis
