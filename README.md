@@ -58,7 +58,29 @@ Verilog HDL, Icarus Verilog, GTKWave, Yosys, SKY130 standard-cell libraries, Ope
 
 1. Start with the README inside the module or project folder that interests you.
 2. Open the associated images to see design diagrams, synthesis results, waveforms and physical-design stages.
-3. For timing analysis, begin with `VSDBabySoC_Multi_Corner_STA/README.md`, then review the CSV and full PDF report.
+3. For timing analysis, begin with `VSDBabySoC_Multi_Corner_STA/README.md`, then review the CSV and full PDF report.## 🎥 VLSI Training – Final Presentation Video
+
+As part of my VLSI training, I completed practical work covering RTL design, simulation, synthesis, Physical Design, routing, and Static Timing Analysis.
+
+This presentation summarizes the concepts learned, tools explored, practical exercises performed, and results documented throughout the training.
+
+### Topics Covered
+- **RTL to GLS:** Verilog RTL design, simulation, synthesis, optimization, and gate-level simulation.
+- **Physical Design:** Floorplanning, placement, clock tree synthesis, and physical implementation.
+- **Physical Design & Global Routing:** Routing stages and implementation evidence.
+- **Static Timing Analysis (STA):** Multi-corner timing analysis using OpenSTA and SKY130 timing libraries.
+
+### ▶️ Watch the Presentation
+
+[**Watch VLSI Final Presentation on Google Drive**](https://drive.google.com/file/d/1AfxhqNvv9wMCILwlMMuLFzzNfdfdoDyb/view?usp=sharing)
+
+📄 [View Presentation Details](./VLSI%20Final%20Presentation%20Video.md)
+
+**Presenter:** B. Rohith Reddy  
+**Branch:** Electronics and Communication Engineering (ECE)
+
+*Note: The video is hosted on Google Drive. Playback will be available after Google Drive finishes processing the video, subject to the sharing permissions.*
+
 
 ## Complete repository file tree
 
